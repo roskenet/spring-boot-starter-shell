@@ -5,13 +5,13 @@
 
     <groupId>org.mvnsearch.spring.boot</groupId>
     <artifactId>spring-boot-starter-shell</artifactId>
-    <version>1.0.1-SNAPSHOT</version>
+    <version>1.0.2-SNAPSHOT</version>
     <name>spring-boot-starter-shell</name>
     <description>Spring Shell with Spring Boot Driven</description>
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-        <spring-boot.version>1.4.3.RELEASE</spring-boot.version>
+        <spring-boot.version>1.5.2.RELEASE</spring-boot.version>
         <spring.shell.version>1.2.0.RELEASE</spring.shell.version>
     </properties>
 
